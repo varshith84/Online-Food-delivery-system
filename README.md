@@ -2,7 +2,7 @@
 # lively-square-4699
 
 
-# REST API for Flash food (Online food delivery system)
+# (Online food delivery system)
 
 
 <img

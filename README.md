@@ -65,13 +65,6 @@ http://localhost:8088/swagger-ui/
 <img src="https://i.postimg.cc/hvgvg4CL/schema1.png" >
 <img src="https://i.postimg.cc/pTQV0b2p/schema-2.png" >
 
-# Collaborators
 
-- [Subham Panda](https://www.github.com/subhampanda7)
-- [Nitya Baranwal](https://www.github.com/nitya-nb)
-- [Md Irfan](https://www.github.com/irfan9955)
-- [Prashant Anand](https://github.com/annax3)
-
-### Thank You😊
 
 

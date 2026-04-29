@@ -7,7 +7,7 @@
 
 
 
-Flash food is an online food delivery system where both customers and restaurants can interact with the application interface. After authentication, The restaurant can add the item and able to perform various tasks such as update and delete. The customers can register and log in to add available items from different restaurants to their cart.
+This is an online food delivery system where both customers and restaurants can interact with the application interface. After authentication, The restaurant can add the item and able to perform various tasks such as update and delete. The customers can register and log in to add available items from different restaurants to their cart.
 
 This is a collaborative project, completed by a team of 4 backend developers.
 
